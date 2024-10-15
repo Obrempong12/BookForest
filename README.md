@@ -59,7 +59,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/BookForest.git
+   git clone https://github.com/Obrempong12/BookForest.git
    cd BookForest/backend
    ```
 
