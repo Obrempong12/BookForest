@@ -6,7 +6,6 @@ require('dotenv').config();
 const bookRoutes = require('./routes/bookRoutes');
 
 const app = express();
-
 // Middleware
 app.use(cors());
 app.use(express.json());
