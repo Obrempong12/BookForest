@@ -187,8 +187,4 @@ For any inquiries, suggestions, or feedback, feel free to reach out:
 
 ## Acknowledgements 🙌
 
-Thanks to everyone who has supported the development of **Book Forest**, from concept to code. Special thanks to the contributors and the open-source community for their invaluable input and inspiration.
-
----
-
-Feel free to update the placeholders (like GitHub profile links, email addresses, etc.) with your own information, and this README will be ready to showcase your **Book Forest** project in a professional manner! Let me know if you'd like to add or adjust any other section.
+Thanks to everyone who has supported the development of **Book Forest**, from concept to code. Special thanks to ALx Africa  and the open-source community for their invaluable input and inspiration.
