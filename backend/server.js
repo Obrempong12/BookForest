@@ -10,7 +10,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Routes
+// Routes.
 app.use('/api/books', bookRoutes);
 
 // Connect to MongoDB
